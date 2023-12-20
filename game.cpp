@@ -6,7 +6,7 @@
  
 using namespace std; 
  
-const int boardSize = 6; 
+const int boardSize = 7; 
 char board[boardSize][boardSize]; 
 int shipHits = 0; 
 int totalShots = 0; 
